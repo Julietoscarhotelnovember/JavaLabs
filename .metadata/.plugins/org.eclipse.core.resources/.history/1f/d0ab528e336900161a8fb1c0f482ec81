@@ -1,0 +1,32 @@
+package FactoryMethod;
+
+public class PitcherPlayerFactory extends PlayerFactory {
+	public PitcherPlayerFactory() {
+
+	}
+
+	@Override
+	protected Player createPlayer(int age, String name) {
+		// TODO Auto-generated method stub
+		return new PitcherPlayer(age, name);
+	}
+
+	@Override
+	public void registerKBO(Player p) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void registerMLB(Player p) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void registerNPB(Player p) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

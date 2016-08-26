@@ -1,0 +1,17 @@
+import Framework.*;
+import IDCard.*;
+import Car.*;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Factory factory1=new IDCardFactory();
+		Product p1=factory1.create();
+		p1.use();
+		
+		Factory factory2=new CarFactory();
+		Product p2=factory2.create();
+		p2.use();
+		
+	}
+}

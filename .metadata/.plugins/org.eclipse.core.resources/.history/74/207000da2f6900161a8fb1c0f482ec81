@@ -1,0 +1,15 @@
+package FactoryMethod;
+
+public abstract class PlayerFactory {
+	public void create() {
+
+	}
+
+	public abstract void createPlayer();
+
+	public abstract void registerKBO();
+
+	public abstract void registerMLB();
+
+	public abstract void registerNPB();
+}

@@ -1,0 +1,13 @@
+package TemplateMethod;
+
+public class Main {
+
+	public static void main(String[] args) {
+		AbstractDisplay d1 = new CharDisplay('h');
+		AbstractDisplay d2 = new StringDisplay("Hellow worold");
+		AbstractDisplay d3 = new StringDisplay("ÇÏ¤·¿è");
+		d1.display();
+		d2.display();
+		d3.display();
+	}
+}

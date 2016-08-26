@@ -1,0 +1,11 @@
+import Framework.*;
+import IDCard.*;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Factory factory=new IDCardFactory();
+		Product p=factory.create();
+		p.use();
+	}
+}

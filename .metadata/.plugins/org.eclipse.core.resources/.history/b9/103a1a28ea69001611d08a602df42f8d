@@ -1,0 +1,5 @@
+package FactoryMethod2.Product1;
+
+public class IDCard {
+
+}

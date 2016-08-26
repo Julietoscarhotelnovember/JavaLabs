@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Ex04_Mulit_Word_Game.java&apos; to &apos;Practice/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;Ex09_Thread&apos;&#x0D;&#x0A;- Destination element: &apos;Practice/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;Ex04_Mulit_Word_Game.java&apos;" description="Copy compilation unit" destination="=Practice/src&lt;" element1="/src&lt;{Ex04_Mulit_Word_Game.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1470382498998" units="1" version="1.0"/>
+</session>

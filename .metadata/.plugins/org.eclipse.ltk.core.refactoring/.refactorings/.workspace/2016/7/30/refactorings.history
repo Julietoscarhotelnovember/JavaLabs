@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Ex04_OOP&apos; to &apos;Ex04_OOP_Inheritance&apos;&#x0D;&#x0A;- Original element: &apos;Ex04_OOP&apos;&#x0D;&#x0A;- Renamed element: &apos;Ex04_OOP&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Ex04_OOP&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Ex04_OOP" name="Ex04_OOP_Inheritance" references="true" stamp="1469147435050" version="1.0"/>
+</session>
